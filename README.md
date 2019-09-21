@@ -3,4 +3,5 @@ This project is part of the Machine Learning for Health Care (2019) at ETH.
 
 | Name |
 |---------|
-|Georgios Vasilakopoulos|
+| Leopold Franz |
+| Georgios Vasilakopoulos |
