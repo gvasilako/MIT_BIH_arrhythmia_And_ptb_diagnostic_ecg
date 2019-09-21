@@ -1,1 +1,4 @@
-# MIT_BIH_arrhythmia_And_ptb_diagnostic_ecg
+# MIT-BIH Arrhythmia and PTB Diagnostic Ecg
+This project is part of the Machine Learning for Health Care (2019) at ETH.
+Name|
+Georgios Vasilakopoulos|
